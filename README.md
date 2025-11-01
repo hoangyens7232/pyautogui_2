@@ -1,1 +1,1 @@
-# pyautogui_2
+# pyautugui
